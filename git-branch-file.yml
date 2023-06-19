@@ -1,0 +1,10 @@
+there are 3 branches we maintain in my environment
+git branch creates them:
+development
+staging 
+master
+
+git branch checks list of branches
+git branch branchnsmr creates the new branch
+git switch or checkout will transfer anything in the existing branch to the branch you are 
+switching to especially if it is new
